@@ -1,0 +1,8 @@
+{
+  "OP.Prueba.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Newshore\\Newshore.Back\\OP.Prueba.Application",
+  "OP.Prueba.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Newshore\\Newshore.Back\\OP.Prueba.Domain",
+  "OP.Prueba.Identity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Newshore\\Newshore.Back\\OP.Prueba.Identity",
+  "OP.Prueba.Persistence, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Newshore\\Newshore.Back\\OP.Prueba.Persistence",
+  "OP.Prueba.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Newshore\\Newshore.Back\\OP.Prueba.Shared",
+  "OP.Prueba.WebAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Newshore\\Newshore.Back\\OP.Prueba.WebAPI"
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DiCrMzr4rBeI13WVeXI2N8IwrwO43jjVZ26KIgqbquw=",
+  "Source": "OP.Prueba.WebAPI",
+  "BasePath": "_content/OP.Prueba.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
